@@ -14,7 +14,7 @@ Simple Discord Nuke Bot.
 
 ***
 # Preview
-![](https://media.discordapp.net/attachments/932978004978712606/932998803802423367/9X4N.PNG?width=789&height=411)
+![](https://cdn.discordapp.com/attachments/949663862611914782/957339415154405496/unknown.png)
 
 ***
 # Installation:
