@@ -21,7 +21,7 @@ baner = f'''
 {r}|  \| | | | | |/ / _ {m}\  _ \ / _ \| __|
 {r}| |\  | |_| |   <  __{m}/ |_) | (_) | |_ 
 {r}|_| \_|\__,_|_|\_\___{m}|____/ \___/ \__|
-{y}Made by: {g}https://github.com/9X4N'''
+{y}Made by: {g}https://github.com/Nasko596'''
 
 
 
