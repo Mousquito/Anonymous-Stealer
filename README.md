@@ -34,10 +34,10 @@ Simple Discord Stealer.
 
 ***
 # Credits :
-`
+````
 1. [SySLinks](https://github.com/syslinks)
 2. [Addi00000](https://github.com/addi00000)
-
+```
 
 `
 
