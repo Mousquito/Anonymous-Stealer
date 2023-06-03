@@ -1,7 +1,6 @@
 # Discord Stealer
 Simple Discord Stealer.
-I'd like to point out that I took the source code from addi00000.
-here is its github: https://github.com/addi00000
+
 
 `this is just for educational purposes do not use it for malicious purposes i am not responsible for your actions.`
 
@@ -37,6 +36,7 @@ here is its github: https://github.com/addi00000
 # Credits :
 ```
 SySLinks
+addi00000
 ```
 
 ***
@@ -48,3 +48,8 @@ SySLinks
 4. Run the builder by double clicking the `build.bat` file
 5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.exe
 `
+
+
+
+I'd like to point out that I took the source code from addi00000.
+here is its github: https://github.com/addi00000
