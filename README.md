@@ -31,6 +31,7 @@ here is its github: https://github.com/addi00000
 ![2023_06_03_02m_Kleki](https://github.com/syslinks/Anonymous-Stealer/assets/97897361/85ec3df8-d3dd-44f2-8b2d-16c305e29b9e)
 
 ![ano](https://github.com/syslinks/Anonymous-Stealer/assets/97897361/20342b21-0799-4769-8c69-f322b719455c)
+![2023_06_03_05e_Kleki](https://github.com/syslinks/Anonymous-Stealer/assets/97897361/966b1ad7-aed3-48ac-9ea0-c64246e82a10)
 
 ***
 # Credits :
