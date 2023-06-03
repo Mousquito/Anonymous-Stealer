@@ -6,9 +6,8 @@ here is its github: https://github.com/addi00000
 `this is just for educational purposes do not use it for malicious purposes i am not responsible for your actions.`
 
 # Requirements
-* Python 3.6 - 3.8
-* Windows 10
-*  Git Bash
+*   [Python](https://www.python.org/downloads/release/python-3109/)
+**   [Git Bash](https://git-scm.com/download/win)
 ***
 # Discord Token Info.
  - [x] Nitro
