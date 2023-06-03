@@ -7,7 +7,7 @@ here is its github: https://github.com/addi00000
 
 # Requirements
 *   [Python](https://www.python.org/downloads/release/python-3109/)
-**   [Git Bash](https://git-scm.com/download/win)
+*  [Git Bash](https://git-scm.com/download/win)
 ***
 # Discord Token Info.
  - [x] Nitro
