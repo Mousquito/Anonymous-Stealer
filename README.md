@@ -5,8 +5,9 @@ here is its github: https://github.com/addi00000
 
 `this is just for educational purposes do not use it for malicious purposes i am not responsible for your actions.`
 
-# Simple Discord Nuke Bot
+# Simple Discord Stealer
 * Python 3.6 - 3.8
+* Windows 10 
 ***
 # Discord Token Info.
  - [x] Nitro
