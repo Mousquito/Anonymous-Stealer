@@ -31,6 +31,7 @@ Simple Discord Stealer.
 
 ![ano](https://github.com/syslinks/Anonymous-Stealer/assets/97897361/20342b21-0799-4769-8c69-f322b719455c)
 ![2023_06_03_05e_Kleki](https://github.com/syslinks/Anonymous-Stealer/assets/97897361/966b1ad7-aed3-48ac-9ea0-c64246e82a10)
+![image](https://github.com/syslinks/Anonymous-Stealer/assets/97897361/0c8e7770-b719-4b7d-a37e-a9f2ea02a53d)
 
 ***
 # Credits :
