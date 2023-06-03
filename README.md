@@ -51,5 +51,4 @@ addi00000
 
 
 
-I'd like to point out that I took the source code from addi00000.
-here is its github: https://github.com/addi00000
+
