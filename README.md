@@ -5,12 +5,12 @@ Simple Discord Nuke Bot.
 # Simple Discord Nuke Bot
 * Python 3.6 - 3.8
 ***
-# Features
- - [x] Delete Channels
- - [x] Ban All Members
- - [x] Delete Roles
- - [x] Create Channels
- - [ ] Create Roles
+# Discord Token Info
+ - [x] Nitro
+ - [x] Badges
+ - [x] Email
+ - [x] Phone
+ - [x] Gift Codes
 
 ***
 # Preview
